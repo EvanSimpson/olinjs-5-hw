@@ -1,6 +1,6 @@
 #olinjs - 5 homework
 
-Shitty MyFaceBookSpace
+MyFaceBookSpace
 
 ## Reading
 
